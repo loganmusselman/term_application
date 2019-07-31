@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Term Scheduler</string>
+    <string name="delete_all_data">Delete All Data</string>
+    <string name="create_sample_data">Create Sample Terms</string>
+    <string name="delete_all_terms">Delete All Terms</string>
+    <string name="all_deleted">All Terms Removed</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="add_term">Add Term</string>
+    <string name="new_term">New Term</string>
+    <string name="action_settings">menu_activity_term</string>
+    <string name="action_delete">Delete</string>
+    <string name="term_deleted">Term Deleted</string>
+    <string name="add">Add</string>
+    <string name="course_cancelled">Course Creation Cancelled</string>
+    <string name="edit_term">Edit Term</string>
+    <string name="create_course">See Course List</string>
+    <string name="course_created">Course Created Successfully</string>
+    <string name="dummy_text">Dummy Text</string>
+
+</resources>
